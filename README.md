@@ -33,8 +33,6 @@ npm run server
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) to view the app.
-
 ## Project Structure
 
 ```
@@ -57,3 +55,4 @@ src/
 | GET | `/blogs` | Get all blogs |
 | GET | `/blogs/:id` | Get blog by ID |
 | POST | `/blogs` | Create new blog |
+
